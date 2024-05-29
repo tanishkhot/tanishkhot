@@ -1,4 +1,9 @@
 ## Hi there 👋
+## Skills and Technologies
+- **Languages:** Python, JavaScript, Java, C++
+- **Frameworks:** React, Node.js, Django
+- **Tools:** Git, Docker, Jenkins
+
 
 <!--
 **tanishkhot/tanishkhot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
