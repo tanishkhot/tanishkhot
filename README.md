@@ -19,6 +19,7 @@ Apart from my technical pursuits, I am a world record-holding mountaineer with a
 
 ## Contact
 - [LinkedIn](https://linkedin.com/in/tanishkhot)
+- [Twitter](https://x.com/KhotTanish)
 - tanishkhot29@gmail.com
 
 <!--![Your Banner](https://yourimageurl.com/banner.png)-->
