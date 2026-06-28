@@ -1,118 +1,70 @@
 <div align="center">
 
-# Hi there, I'm Tanish Khot! 👋  
+# Tanish Khot
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-tanishkhot.in-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tanishkhot.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanish%20Khot-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tanishkhot)
-[![Twitter](https://img.shields.io/badge/Twitter-%40KhotTanish-blue?style=for-the-badge&logo=x)](https://x.com/KhotTanish)
-[![LeetCode](https://img.shields.io/badge/LeetCode-tanishkhot-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/tanishkhot/)
+AI-native engineer [@atlanhq](https://github.com/atlanhq) · building at the intersection of AI & scalable backend systems.
+
+[portfolio](https://tanishkhot.in) · [twitter](https://x.com/KhotTanish) · [linkedin](https://linkedin.com/in/tanishkhot) · [github](https://github.com/tanishkhot) · [email](mailto:tanishkhot29@gmail.com)
 
 </div>
 
----
 
-## 👨‍💻 About Me
 
-I am a final-year **IT Engineering** student at **PICT** and a **B.S. in Data Science** candidate at **IIT Madras**, passionate about building at the intersection of **AI**, **Web3**, and **scalable backend systems**.  
-My goal is to architect innovative solutions and contribute to cutting-edge research in **computer vision** and **decentralized technologies**.
+## about me
 
-Beyond technology, I'm a **world record-holding mountaineer** with a love for **extreme sports**, **Formula One**, and **football**. 🏔️🏎️⚽
+i'm an **AI-native engineer** at **[Atlan](https://atlan.com)** ([@atlanhq](https://github.com/atlanhq)), building at the intersection of **AI** and **scalable backend systems**. i recently wrapped up my b.e. in information technology (with honours) at **pict**. i build connectors that bring in data from multiple sources into atlan. also, working on building the new harness for agentic AI inside atlan.
 
----
+beyond technology, i'm a **world record-holding mountaineer** and a **wannabe triathlete** with a love for **extreme sports**.
 
-## 🚀 Tech Stack
+## tech stack
 
-<table>
-<tr>
-<td valign="top" width="50%">
+i work with anything and everything. and love to get my hands dirty with new tech. but here's something i've worked with before:
 
-### 🧠 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+🔷 **my goto stack**
 
-</td>
-<td valign="top" width="50%">
+typescript · javascript · python · go · java · react · next.js · node.js · express · mongodb · postgresql · prisma · tailwind
 
-### ⚙️ Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+🔷 **AI & ml**
 
-</td>
-</tr>
+pytorch · tensorflow · keras · langchain · langgraph
 
-<tr>
-<td valign="top" width="50%">
+🔷 **backend, apis & distributed systems**
 
-### 🤖 AI & Deep Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
+backend · apis · temporal · dapr · application sdk · docker
 
-</td>
-<td valign="top" width="50%">
+🔷 **web3**
 
-### ⛓️ Blockchain & Web3
-![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A4?style=for-the-badge&logo=ethers&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-25292F?style=for-the-badge&logo=hardhat&logoColor=white)
+solidity · ethers.js · hardhat
 
-</td>
-</tr>
-</table>
 
-🌱 **Currently Learning:** ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-
----
-
-## ✨ Featured Projects
+## featured projects
 
 <details>
-<summary><strong>Crucible: Proof-of-Merit Protocol</strong></summary>
+<summary><strong>crucible: proof-of-merit protocol</strong></summary>
 
-Architected an on-chain “proof-of-skill” protocol using a stake-and-challenge mechanism to create a trustless, economically-incentivized reputation system.
+architected an on-chain “proof-of-skill” protocol using a stake-and-challenge mechanism to create a trustless, economically-incentivized reputation system.
 
-**My Role:** Led architecture at EthGlobal, designed the core smart contract, and built the AI-powered backend for recruiter queries.  
-**Technologies:** Solidity, Ethers.js, Node.js, Express.js, PostgreSQL, LLMs.
+**my role:** led architecture at ethglobal, designed the core smart contract, and built the AI-powered backend for recruiter queries.  
+**technologies:** solidity, ethers.js, node.js, express.js, postgresql, llms.
 
 </details>
 
 <details>
-<summary><strong>PneumoScan: AI-Powered Pneumonia Detection</strong></summary>
+<summary><strong>pneumoscan: AI-powered pneumonia detection</strong></summary>
 
-Deployed a deep learning application to classify chest X-rays, achieving 85.4% accuracy with Grad-CAM for Explainable AI (XAI).
+deployed a deep learning application to classify chest x-rays, achieving 85.4% accuracy with grad-cam for explainable AI (xai).
 
-**My Role:** Fine-tuned an EfficientNetB0 model, handled data imbalance, and managed the full CI/CD deployment pipeline.  
-**Technologies:** Python, PyTorch, Streamlit, EfficientNetB0, Grad-CAM, CI/CD.
+**my role:** fine-tuned an efficientnetb0 model, handled data imbalance, and managed the full ci/cd deployment pipeline.  
+**technologies:** python, pytorch, streamlit, efficientnetb0, grad-cam, ci/cd.
 
 </details>
 
 <details>
-<summary><strong>PICT ACM Student Chapter Alumni Portal</strong></summary>
+<summary><strong>pict acm student chapter alumni portal</strong></summary>
 
-Developed a full-stack web portal for PASC Alumni to enhance networking and collaboration.
+developed a full-stack web portal for pasc alumni to enhance networking and collaboration.
 
-**My Role:** Drove backend development by building RESTful APIs with Node.js/Express and PostgreSQL, and built the frontend UI with React.  
-**Technologies:** React, Next.js, Node.js, Express.js, PostgreSQL, Axios.
+**my role:** drove backend development by building restful apis with node.js/express and postgresql, and built the frontend ui with react.  
+**technologies:** react, next.js, node.js, express.js, postgresql, axios.
 
 </details>
-
-
-<!-- ## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanishkhot&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Tanish's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishkhot&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Tanish's Top Languages"/>
-</div> -->
-
----
-
-<!--
-tanishkhot/tanishkhot is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
--->
